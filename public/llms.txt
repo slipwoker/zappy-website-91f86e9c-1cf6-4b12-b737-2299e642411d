@@ -1,0 +1,81 @@
+# ראש עסקי — Generative Engine Optimization Map
+
+> A business website that incorporates AI features to help grow or operate the business more effectively. The specific industry and nature of the business are not yet defined.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+רוצה לנהל עסק מצליח? ראש עסקי משלב כלי בינה מלאכותית מתקדמים שיעזרו לך לרשום עסק, לנהל חשבון עסקי ולצמוח מהר יותר. התחל עכשיו!
+
+### שירותים ותכונות
+https://example.com/services
+גלה את מגוון השירותים והתכונות של ראש עסקי: מהבנק הטוב ביותר לעסקים קטנים ועד כלי AI שמייעלים כל תהליך עסקי. השירות שחיכית לו כבר כאן!
+
+### אודות
+https://example.com/about
+ראש עסקי נולד מתוך הבנה שה-AI לא תמיד צודק, אך הוא עוזר לנו ביום יום. למד מי אנחנו, מה מניע אותנו, ולמה אלפי בעלי עסקים בוחרים בנו כשותף האסטרטגי שלהם.
+
+### צור קשר
+https://example.com/contact
+יש לך שאלות על פתיחת חשבון עסקי, רישום עסק או שיפור הביצועים? צוות ראש עסקי זמין עבורך עכשיו. שלח הודעה ותקבל מענה מקצועי שיקדם אותך קדימה!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ראש עסקי
+A business website that incorporates AI features to help grow or operate the business more effectively. The specific industry and nature of the business are not yet defined.
+
+## Target Audience
+- בעלי עסקים טכנולוגיים
+- סטארט-אפים חובבי בינה מלאכותית
+- יועצים מקצועיים בתחום העסקי
+- חדשנים טכנולוגיים בחברות גדולות
+- מוסדות חינוך טכנולוגיים
+- אני
+
+## Industry
+Business
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt

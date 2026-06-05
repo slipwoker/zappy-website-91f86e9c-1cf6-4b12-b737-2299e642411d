@@ -600,7 +600,7 @@ AI
 - צור קשר
 
 ### צור קשר
-- [business_email]
+- anonomi1023@gmail.com
 - [business_phone]
 - [business_address]
 
@@ -1259,7 +1259,7 @@ AI פעיל
 - צור קשר
 
 ### צור קשר
-- [business_email]
+- anonomi1023@gmail.com
 - [business_phone]
 - [business_address]
 
@@ -1902,7 +1902,7 @@ AI-Powered Strategy
 - צור קשר
 
 ### צור קשר
-- [business_email]
+- anonomi1023@gmail.com
 - [business_phone]
 - [business_address]
 
@@ -2319,7 +2319,7 @@ Description: יש לך שאלות על פתיחת חשבון עסקי, רישו�
 - צור קשר
 
 ### צור קשר
-- [business_email]
+- anonomi1023@gmail.com
 - [business_phone]
 - [business_address]
 
@@ -2493,7 +2493,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 - חברה: ראש עסקי
 
-- אימייל: [business_email]
+- אימייל: anonomi1023@gmail.com
 
 - טלפון: [business_phone]
 
@@ -2520,7 +2520,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 - צור קשר
 
 ### צור קשר
-- [business_email]
+- anonomi1023@gmail.com
 - [business_phone]
 - [business_address]
 
@@ -2702,7 +2702,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 - חברה: ראש עסקי
 
-- אימייל: [business_email]
+- אימייל: anonomi1023@gmail.com
 
 - טלפון: [business_phone]
 
@@ -2730,7 +2730,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 - צור קשר
 
 ### צור קשר
-- [business_email]
+- anonomi1023@gmail.com
 - [business_phone]
 - [business_address]
 
@@ -2935,7 +2935,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 - חברה: ראש עסקי
 
-- אימייל: [business_email]
+- אימייל: anonomi1023@gmail.com
 
 - טלפון: [business_phone]
 
@@ -2959,7 +2959,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 - צור קשר
 
 ### צור קשר
-- [business_email]
+- anonomi1023@gmail.com
 - [business_phone]
 - [business_address]
 
